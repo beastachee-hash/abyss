@@ -1,0 +1,268 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 3,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:unoptanium",
+          "weight": 18,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:plutonium",
+          "weight": 16,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:mythril",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:adamantite",
+          "weight": 14,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:enderium",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:meteorite_ingot",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:cyber_crystal",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:moonstone",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "thermal:signalum_ingot",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "thermal:lumium_ingot",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "thermal:enderium_ingot",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mekanism:ingot_refined_obsidian",
+          "weight": 14,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mekanism:ingot_refined_glowstone",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "botania:elementium_ingot",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "botania:terrasteel_ingot",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:enderite_ingot",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:witherite_ingot",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

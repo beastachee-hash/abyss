@@ -1,0 +1,5 @@
+
+[general]
+	#Print debug info about active Aurora tweaks to the log.
+	enable_logging = true
+

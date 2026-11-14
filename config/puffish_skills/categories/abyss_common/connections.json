@@ -1,0 +1,14 @@
+{
+  "normal": {
+    "bidirectional": [
+      [
+        "vitality",
+        "armor"
+      ],
+      [
+        "armor",
+        "swiftness"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "silent_steps": {
+    "x": 0,
+    "y": 0,
+    "definition": "silent_steps",
+    "root": true
+  },
+  "deadly_precision": {
+    "x": 64,
+    "y": -32,
+    "definition": "deadly_precision"
+  },
+  "venom_edge": {
+    "x": 64,
+    "y": 32,
+    "definition": "venom_edge"
+  },
+  "executioner": {
+    "x": 128,
+    "y": -32,
+    "definition": "executioner"
+  },
+  "umbral_veil": {
+    "x": 128,
+    "y": 32,
+    "definition": "umbral_veil"
+  }
+}

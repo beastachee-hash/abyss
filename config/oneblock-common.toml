@@ -1,0 +1,82 @@
+
+[island]
+	#false: every player gets an own island. true: one island shared by all players.
+	sharedProgress = false
+	#Island origin X of the first island. Further islands are placed along X with the spacing.
+	#Range: -29999984 ~ 29999984
+	baseX = 20000
+	#Y of the OneBlock block; the platform floor is one block below.
+	#Range: 8 ~ 250
+	baseY = 120
+	#Island origin Z.
+	#Range: -29999984 ~ 29999984
+	baseZ = 20000
+	#Distance in blocks between neighbouring islands.
+	#Range: 64 ~ 4096
+	spacing = 256
+	#Place a chest with starting items on the new island.
+	startChest = true
+	#Coins granted once when the island is created.
+	#Range: 0 ~ 1000000
+	startCoins = 100
+	#Spawn a periodic zombie invasion on occupied OneBlock islands.
+	zombieInvasionsEnabled = true
+	#In-game days between zombie invasions.
+	#Range: 1 ~ 1000
+	zombieInvasionIntervalDays = 10
+	#Total zombies in each invasion per player present on the island.
+	#Range: 1 ~ 100
+	zombiesPerPlayer = 5
+	#Ticks between regular zombie spawns; 20 ticks = 1 second.
+	#Range: 20 ~ 1200
+	zombieSpawnIntervalTicks = 100
+	#Ticks before a replacement zombie appears after a kill.
+	#Range: 1 ~ 200
+	zombieReplacementDelayTicks = 20
+	#Minimum ticks between attempts to break an obstructing island block.
+	#Range: 5 ~ 200
+	zombieBlockBreakIntervalTicks = 20
+
+[economy]
+	#Coins paid for every OneBlock break.
+	#Range: 0 ~ 1000
+	coinsPerMine = 1
+	#Extra coins paid when the Bonus upgrade procs.
+	#Range: 0 ~ 100000
+	bonusCoins = 5
+	#Upgrade cost is base * (nextLevel)^2 / 10.
+	#Range: 1 ~ 1000000
+	upgradeBaseCost = 100
+	#Island level requirements for internal campaign tracks 2..21, then Mine and Forest branches (22 and 23).
+	#Vanilla remains five internal tracks inside one logical campaign node. The barrier radius is 4 blocks per island level.
+	stageLevels = [3, 6, 10, 15, 20]
+	#Coin cost of opening internal campaign tracks 2..21, then Mine and Forest branches (22 and 23). Stage 1 is free.
+	stageCosts = [1000, 4000, 12000, 30000, 80000]
+	#Shop entries: item;buyPrice;sellPrice;stage;rank (rank is optional and defaults to 1).
+	#Buy price 0 disables buying; sell price 0 disables selling. A row with buy 0 and sell > 0 is sell-only.
+	#When buy price is positive, sell price must not exceed buy price.
+	shop = ["minecraft:torch;4;0;1", "minecraft:bread;5;0;1", "minecraft:cobblestone;2;1;1", "minecraft:dirt;2;1;1", "minecraft:oak_log;4;2;1", "minecraft:sand;2;1;1", "minecraft:gravel;2;1;1", "minecraft:wheat_seeds;3;1;1", "minecraft:coal;8;4;1", "minecraft:raw_iron;15;8;2", "minecraft:raw_copper;10;5;2", "minecraft:stone_bricks;6;3;2", "minecraft:glass;6;3;2", "minecraft:bricks;8;4;2", "minecraft:clay_ball;4;2;2", "minecraft:raw_gold;30;15;3", "minecraft:redstone;12;6;3", "minecraft:lapis_lazuli;20;10;3", "minecraft:glowstone_dust;15;7;3", "minecraft:netherrack;4;2;4", "minecraft:quartz;25;12;4", "minecraft:glowstone;30;15;4", "minecraft:soul_sand;6;3;4", "minecraft:nether_wart;10;5;4", "minecraft:obsidian;40;20;5", "minecraft:amethyst_shard;50;25;5", "minecraft:diamond;150;75;5", "minecraft:emerald;200;100;5", "minecraft:crying_obsidian;60;30;5", "minecraft:end_stone;10;5;6", "minecraft:chorus_fruit;30;15;6", "minecraft:netherite_scrap;500;250;6"]
+
+[effects]
+	#Chance that a break gives twice as many items.
+	#Range: 0.0 ~ 1.0
+	doubleDropChance = 0.03
+	#Chance of an extra coin bonus.
+	#Range: 0.0 ~ 1.0
+	coinBonusChance = 0.05
+	#Amount of the extra coin bonus.
+	#Range: 0 ~ 100000
+	coinBonus = 10
+	#Chance of extra island experience.
+	#Range: 0.0 ~ 1.0
+	experienceChance = 0.05
+	#Amount of the extra island experience.
+	#Range: 0 ~ 100000
+	experienceBonus = 5
+	#Chance that a break gives a rare block from the table.
+	#Range: 0.0 ~ 1.0
+	rareChance = 0.02
+	#Chance that a break triggers a Lucky Block reward (0.002-0.004 = 0.2-0.4%).
+	#Range: 0.0 ~ 0.01
+	luckyBlockChance = 0.003
+

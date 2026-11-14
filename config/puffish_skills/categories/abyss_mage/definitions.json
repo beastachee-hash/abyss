@@ -1,0 +1,127 @@
+{
+  "ether_flow": {
+    "title": "Поток эфира",
+    "description": "В активном забеге восстановление боевого ресурса Мага увеличивается на 1 в секунду.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:glowstone_dust"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_mage_flow"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "arcane_resonance": {
+    "title": "Арканный резонанс",
+    "description": "Тег узла сохраняется, но увеличение магического урона пока не активировано внешним патчем.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:enchanted_book"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_mage_resonance"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "glacial_mastery": {
+    "title": "Ледяное мастерство",
+    "description": "Тег узла сохраняется, но дополнительная длительность замедления пока не активирована внешним патчем.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:packed_ice"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_mage_glacial"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "meteor_focus": {
+    "title": "Фокус метеора",
+    "description": "Тег узла сохраняется, но бонус к урону «Метеора» пока не активирован внешним патчем.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fire_charge"
+      }
+    },
+    "cost": 2,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_mage_meteor"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "runic_ward": {
+    "title": "Рунный оберег",
+    "description": "Во время активного забега даёт +1,25 брони (примерно 5% снижения обычных ударов; фактическая защита зависит от формулы брони Minecraft).",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 2,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_mage_ward"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  }
+}

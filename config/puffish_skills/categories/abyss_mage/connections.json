@@ -1,0 +1,22 @@
+{
+  "normal": {
+    "bidirectional": [
+      [
+        "ether_flow",
+        "arcane_resonance"
+      ],
+      [
+        "ether_flow",
+        "glacial_mastery"
+      ],
+      [
+        "arcane_resonance",
+        "meteor_focus"
+      ],
+      [
+        "glacial_mastery",
+        "runic_ward"
+      ]
+    ]
+  }
+}

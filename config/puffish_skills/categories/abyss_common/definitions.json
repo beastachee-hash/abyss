@@ -1,0 +1,83 @@
+{
+  "vitality": {
+    "title": "Закалённая плоть",
+    "description": "Увеличивает максимальное здоровье на 2 единицы.",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:health_boost"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "armor": {
+    "title": "Каменная воля",
+    "description": "Увеличивает броню на 1.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.armor",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "swiftness": {
+    "title": "Шаг сквозь тьму",
+    "description": "Немного увеличивает скорость передвижения.",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "minecraft:speed"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  }
+}

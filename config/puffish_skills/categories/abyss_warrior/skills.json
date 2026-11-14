@@ -1,0 +1,23 @@
+{
+  "bulwark": {
+    "x": 0,
+    "y": 0,
+    "definition": "bulwark",
+    "root": true
+  },
+  "counter": {
+    "x": 64,
+    "y": -32,
+    "definition": "counter"
+  },
+  "rhythm": {
+    "x": 64,
+    "y": 32,
+    "definition": "rhythm"
+  },
+  "titan_power": {
+    "x": 128,
+    "y": 0,
+    "definition": "titan_power"
+  }
+}

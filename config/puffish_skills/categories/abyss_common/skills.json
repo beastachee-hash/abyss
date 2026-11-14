@@ -1,0 +1,18 @@
+{
+  "vitality": {
+    "x": 0,
+    "y": 0,
+    "definition": "vitality",
+    "root": true
+  },
+  "armor": {
+    "x": 64,
+    "y": 0,
+    "definition": "armor"
+  },
+  "swiftness": {
+    "x": 128,
+    "y": 0,
+    "definition": "swiftness"
+  }
+}

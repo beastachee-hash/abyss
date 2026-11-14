@@ -1,0 +1,198 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:steel",
+          "weight": 24,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:bronze",
+          "weight": 22,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:brass",
+          "weight": 18,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:german_silver",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:cupronickel",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:electrum",
+          "weight": 9,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "thermal:invar_ingot",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "thermal"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mekanism:ingot_steel",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "mekanism"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

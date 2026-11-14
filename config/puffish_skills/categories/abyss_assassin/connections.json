@@ -1,0 +1,22 @@
+{
+  "normal": {
+    "bidirectional": [
+      [
+        "silent_steps",
+        "deadly_precision"
+      ],
+      [
+        "silent_steps",
+        "venom_edge"
+      ],
+      [
+        "deadly_precision",
+        "executioner"
+      ],
+      [
+        "venom_edge",
+        "umbral_veil"
+      ]
+    ]
+  }
+}

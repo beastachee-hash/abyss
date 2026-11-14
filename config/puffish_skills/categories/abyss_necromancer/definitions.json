@@ -1,0 +1,127 @@
+{
+  "soul_collector": {
+    "title": "Собиратель душ",
+    "description": "Убийства врагов текущего забега дополнительно восстанавливают 4 единицы боевого ресурса.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:ghast_tear"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_necromancer_soul_collector"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "bone_legion": {
+    "title": "Костяной легион",
+    "description": "Тег узла сохраняется, но третий призыв пока не добавляется этим внешним патчем. Третий страж доступен через специализацию «Повелитель легиона» ABYSS.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bone"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_necromancer_bone_legion"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "grave_flesh": {
+    "title": "Плоть могилы",
+    "description": "Костяные стражи получают +8 максимального здоровья и +1,5 урона атаки.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rotten_flesh"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_necromancer_grave_flesh"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "curse_weaving": {
+    "title": "Ткач проклятий",
+    "description": "Тег узла сохраняется, но бонус к урону по целям с иссушением пока не активирован внешним патчем.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wither_rose"
+      }
+    },
+    "cost": 2,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_necromancer_curse"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "soul_devourer": {
+    "title": "Пожиратель душ",
+    "description": "Тег узла сохраняется, но дополнительное лечение от «Поглощения души» пока не активировано внешним патчем.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:soul_sand"
+      }
+    },
+    "cost": 2,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_necromancer_devourer"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  }
+}

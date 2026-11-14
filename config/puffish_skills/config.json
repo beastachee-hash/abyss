@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "categories": [
+    "abyss_common",
+    "abyss_warrior",
+    "abyss_assassin",
+    "abyss_mage",
+    "abyss_necromancer"
+  ],
+  "show_warnings": true
+}

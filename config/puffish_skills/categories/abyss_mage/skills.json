@@ -1,0 +1,28 @@
+{
+  "ether_flow": {
+    "x": 0,
+    "y": 0,
+    "definition": "ether_flow",
+    "root": true
+  },
+  "arcane_resonance": {
+    "x": 64,
+    "y": -32,
+    "definition": "arcane_resonance"
+  },
+  "glacial_mastery": {
+    "x": 64,
+    "y": 32,
+    "definition": "glacial_mastery"
+  },
+  "meteor_focus": {
+    "x": 128,
+    "y": -32,
+    "definition": "meteor_focus"
+  },
+  "runic_ward": {
+    "x": 128,
+    "y": 32,
+    "definition": "runic_ward"
+  }
+}

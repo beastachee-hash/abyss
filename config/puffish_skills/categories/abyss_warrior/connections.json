@@ -1,0 +1,22 @@
+{
+  "normal": {
+    "bidirectional": [
+      [
+        "bulwark",
+        "counter"
+      ],
+      [
+        "bulwark",
+        "rhythm"
+      ],
+      [
+        "counter",
+        "titan_power"
+      ],
+      [
+        "rhythm",
+        "titan_power"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,3124 @@
+{
+  "elements": {
+    "global.image.background_portal.0.0": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0083333,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.panel_content.287.22": {
+      "offsetX": -7.0,
+      "offsetY": 2.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.logo.18.11": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_home.box.18.164": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1318.1880": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_progression.box.18.231": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1245.2550": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_artifacts.box.18.298": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1161.3220": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_classes.box.18.365": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1362.3890": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_journal.box.18.432": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1338.4560": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_settings.box.18.499": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1191.5230": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.player_panel.14.573": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.960.5860": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.number.960.6080": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.number.960.6290": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.panel_wide.568.26": {
+      "offsetX": -128.8695,
+      "offsetY": 22.000008,
+      "scaleX": 1.6676562,
+      "scaleY": 0.5718533,
+      "hidden": false
+    },
+    "global.text.heading.6400.640": {
+      "offsetX": -89.48218,
+      "offsetY": -1.3379669,
+      "scaleX": 2.2797115,
+      "scaleY": 1.3622344,
+      "hidden": false
+    },
+    "global.image.icon_essence.1003.66": {
+      "offsetX": 15.145386,
+      "offsetY": 40.814667,
+      "scaleX": 1.4339783,
+      "scaleY": 1.4013873,
+      "hidden": false
+    },
+    "global.text.number.10300.680": {
+      "offsetX": 22.8042,
+      "offsetY": 45.476715,
+      "scaleX": 1.6623603,
+      "scaleY": 1.0743307,
+      "hidden": false
+    },
+    "global.image.button_close.1137.25": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_0.image.difficulty_card.0": {
+      "offsetX": -38.0,
+      "offsetY": -1.0,
+      "scaleX": 1.2029673,
+      "scaleY": 1.007193,
+      "hidden": false
+    },
+    "page_0.text.heading.4107.1740": {
+      "offsetX": -12.652985,
+      "offsetY": -3.3518372,
+      "scaleX": 1.3011978,
+      "scaleY": 1.2973243,
+      "hidden": false
+    },
+    "page_0.text.label.3609.2100": {
+      "offsetX": -16.914001,
+      "offsetY": -20.731415,
+      "scaleX": 1.0,
+      "scaleY": 1.6203704,
+      "hidden": false
+    },
+    "page_0.image.difficulty_card.1": {
+      "offsetX": -36.0,
+      "offsetY": -45.0,
+      "scaleX": 1.2029673,
+      "scaleY": 1.0146734,
+      "hidden": false
+    },
+    "page_0.text.heading.6860.1740": {
+      "offsetX": -14.039978,
+      "offsetY": -46.0,
+      "scaleX": 1.5438143,
+      "scaleY": 1.2973243,
+      "hidden": false
+    },
+    "page_0.text.label.6405.2100": {
+      "offsetX": -21.232788,
+      "offsetY": -62.041626,
+      "scaleX": 1.0346104,
+      "scaleY": 1.6203704,
+      "hidden": false
+    },
+    "page_0.image.difficulty_card.2": {
+      "offsetX": -34.0,
+      "offsetY": -1.0,
+      "scaleX": 1.1789316,
+      "scaleY": 0.98425937,
+      "hidden": false
+    },
+    "page_0.text.heading.9649.1740": {
+      "offsetX": -25.545471,
+      "offsetY": -2.0138702,
+      "scaleX": 1.7176156,
+      "scaleY": 1.222992,
+      "hidden": false
+    },
+    "page_0.text.label.9228.2100": {
+      "offsetX": -18.17926,
+      "offsetY": -18.055511,
+      "scaleX": 1.0364319,
+      "scaleY": 1.6203704,
+      "hidden": false
+    },
+    "page_0.image.info_dungeon.333.258": {
+      "offsetX": -11.688416,
+      "offsetY": 6.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_0.text.number.6620.2850": {
+      "offsetX": -38.0,
+      "offsetY": 19.0,
+      "scaleX": 1.0003948,
+      "scaleY": 0.9722222,
+      "hidden": false
+    },
+    "page_0.text.number.6620.3450": {
+      "offsetX": -38.0,
+      "offsetY": 15.0,
+      "scaleX": 0.9772706,
+      "scaleY": 0.9722222,
+      "hidden": false
+    },
+    "page_0.text.number.6620.4050": {
+      "offsetX": -38.0,
+      "offsetY": 11.0,
+      "scaleX": 0.98638445,
+      "scaleY": 0.9722222,
+      "hidden": false
+    },
+    "page_0.image.panel_square.865.251": {
+      "offsetX": -41.0,
+      "offsetY": 5.0,
+      "scaleX": 1.180514,
+      "scaleY": 0.848625,
+      "hidden": false
+    },
+    "page_0.text.heading.9089.3260": {
+      "offsetX": 34.53186,
+      "offsetY": -22.696716,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_0.image.icon_skull.888.363": {
+      "offsetX": -24.0,
+      "offsetY": -35.0,
+      "scaleX": 1.4712883,
+      "scaleY": 1.2867068,
+      "hidden": false
+    },
+    "page_0.text.label.9170.3630": {
+      "offsetX": -21.71521,
+      "offsetY": -31.682861,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_0.image.icon_gear_green.888.402": {
+      "offsetX": -26.670593,
+      "offsetY": -42.0,
+      "scaleX": 1.5341278,
+      "scaleY": 1.3679383,
+      "hidden": false
+    },
+    "page_0.text.label.9170.4020": {
+      "offsetX": -20.379944,
+      "offsetY": -39.324097,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_0.image.icon_crown.888.441": {
+      "offsetX": -24.0,
+      "offsetY": -49.0,
+      "scaleX": 1.3338287,
+      "scaleY": 1.1911374,
+      "hidden": false
+    },
+    "page_0.text.label.9170.4410": {
+      "offsetX": -19.044495,
+      "offsetY": -46.296326,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_0.image.icon_shard.888.480": {
+      "offsetX": -24.0,
+      "offsetY": -56.0,
+      "scaleX": 1.50074,
+      "scaleY": 1.3504174,
+      "hidden": false
+    },
+    "page_0.text.label.9170.4800": {
+      "offsetX": -17.709167,
+      "offsetY": -51.930634,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_0.image.panel_wide.345.505": {
+      "offsetX": -1.0,
+      "offsetY": -9.0,
+      "scaleX": 1.0385753,
+      "scaleY": 0.7250209,
+      "hidden": false
+    },
+    "page_0.text.heading.3951.5230": {
+      "offsetX": 28.709229,
+      "offsetY": 3.3448486,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_0.image.icon_essence.502.568": {
+      "offsetX": 0.0,
+      "offsetY": -5.3518677,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_0.text.number.5330.5690": {
+      "offsetX": -4.0059204,
+      "offsetY": -8.696716,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_0.image.start_run_button": {
+      "offsetX": -17.0,
+      "offsetY": -42.0,
+      "scaleX": 0.9847391,
+      "scaleY": 0.880183,
+      "hidden": false
+    },
+    "page_0.text.heading.9341.5710": {
+      "offsetX": -13.422241,
+      "offsetY": -45.006897,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "global.text.heading.6224.640": {
+      "offsetX": 1.5999756,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.330.174": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_journal.box.412.212": {
+      "offsetX": 2.0,
+      "offsetY": 20.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.3835.2860": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.4313.3250": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.610.174": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_crown.box.692.212": {
+      "offsetX": 3.0,
+      "offsetY": 20.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.6886.2860": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.7113.3250": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.890.174": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_skull.box.972.212": {
+      "offsetX": 7.0,
+      "offsetY": 20.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.9538.2860": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.9913.3250": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.330.410": {
+      "offsetX": -2.0,
+      "offsetY": -10.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_gear_gold.box.412.448": {
+      "offsetX": 4.0,
+      "offsetY": 15.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.3599.5220": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.4313.5610": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.610.410": {
+      "offsetX": -2.0,
+      "offsetY": -10.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_essence.box.692.448": {
+      "offsetX": 0.0,
+      "offsetY": 16.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.6659.5220": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.7113.5610": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.890.410": {
+      "offsetX": -2.0,
+      "offsetY": -10.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_swords.box.972.448": {
+      "offsetX": 4.0,
+      "offsetY": 15.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.9612.5220": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.9826.5610": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.heading.6214.640": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.2718412,
+      "scaleY": 1.0743315,
+      "hidden": false
+    },
+    "page_1.image.panel_square.box.320.218": {
+      "offsetX": 0.0,
+      "offsetY": -83.0,
+      "scaleX": 1.0133532,
+      "scaleY": 1.4350014,
+      "hidden": false
+    },
+    "page_1.image.icon_swords.box.337.246": {
+      "offsetX": 119.0,
+      "offsetY": -47.0,
+      "scaleX": 1.0476896,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.text.heading.3850.2520": {
+      "offsetX": -49.0,
+      "offsetY": -36.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_1.text.number.3440.3060": {
+      "offsetX": -8.0,
+      "offsetY": -66.0,
+      "scaleX": 1.1629223,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_1.text.number.3440.3270": {
+      "offsetX": -8.0,
+      "offsetY": -47.0,
+      "scaleX": 1.0718066,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_1.text.label.3440.3400": {
+      "offsetX": -8.0,
+      "offsetY": -36.0,
+      "scaleX": 1.191484,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_1.text.number.3440.3540": {
+      "offsetX": 16.0,
+      "offsetY": -18.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.image.button_primary.box.350.369": {
+      "offsetX": -2.0,
+      "offsetY": -10.0,
+      "scaleX": 1.0714285,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.text.button.3736.3840": {
+      "offsetX": 2.421051,
+      "offsetY": -8.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.image.panel_square.box.535.218": {
+      "offsetX": -7.0,
+      "offsetY": -83.0,
+      "scaleX": 1.013353,
+      "scaleY": 1.4382968,
+      "hidden": false
+    },
+    "page_1.image.icon_gear_blue.box.552.246": {
+      "offsetX": 96.0,
+      "offsetY": -54.0,
+      "scaleX": 1.3815162,
+      "scaleY": 1.0326337,
+      "hidden": false
+    },
+    "page_1.text.heading.6000.2520": {
+      "offsetX": -56.0,
+      "offsetY": -36.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_1.text.number.5590.3060": {
+      "offsetX": -15.0,
+      "offsetY": -66.0,
+      "scaleX": 1.1629223,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_1.text.number.5590.3270": {
+      "offsetX": -15.0,
+      "offsetY": -47.0,
+      "scaleX": 1.0689342,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_1.text.label.5590.3400": {
+      "offsetX": -15.0,
+      "offsetY": -36.0,
+      "scaleX": 1.191484,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_1.text.number.5590.3540": {
+      "offsetX": 9.0,
+      "offsetY": -18.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.image.button_primary.box.565.369": {
+      "offsetX": -9.0,
+      "offsetY": -10.0,
+      "scaleX": 1.0714285,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.text.button.5886.3840": {
+      "offsetX": -4.5789795,
+      "offsetY": -8.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.image.panel_square.box.750.218": {
+      "offsetX": -14.0,
+      "offsetY": -83.0,
+      "scaleX": 1.0166919,
+      "scaleY": 1.4481833,
+      "hidden": false
+    },
+    "page_1.image.icon_gear_purple.box.767.246": {
+      "offsetX": 104.0,
+      "offsetY": -54.0,
+      "scaleX": 1.0667664,
+      "scaleY": 0.98407274,
+      "hidden": false
+    },
+    "page_1.text.heading.8150.2520": {
+      "offsetX": -63.0,
+      "offsetY": -36.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_1.text.number.7740.3060": {
+      "offsetX": -22.0,
+      "offsetY": -66.0,
+      "scaleX": 1.1629223,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_1.text.number.7740.3270": {
+      "offsetX": -22.0,
+      "offsetY": -47.0,
+      "scaleX": 1.0668544,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_1.text.label.7740.3400": {
+      "offsetX": -22.0,
+      "offsetY": -36.0,
+      "scaleX": 1.1650022,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_1.text.number.7740.3540": {
+      "offsetX": 2.0,
+      "offsetY": -18.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.image.button_primary.box.780.369": {
+      "offsetX": -16.0,
+      "offsetY": -10.0,
+      "scaleX": 1.0714285,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.text.button.8036.3840": {
+      "offsetX": -11.5789795,
+      "offsetY": -8.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.image.panel_square.box.965.218": {
+      "offsetX": -21.0,
+      "offsetY": -83.0,
+      "scaleX": 1.0066761,
+      "scaleY": 1.454774,
+      "hidden": false
+    },
+    "page_1.image.icon_gear_gold.box.982.246": {
+      "offsetX": 98.0,
+      "offsetY": -55.0,
+      "scaleX": 1.0317965,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.text.heading.10300.2520": {
+      "offsetX": -70.0,
+      "offsetY": -36.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_1.text.number.9890.3060": {
+      "offsetX": -29.0,
+      "offsetY": -66.0,
+      "scaleX": 1.2557439,
+      "scaleY": 1.5624385,
+      "hidden": false
+    },
+    "page_1.text.number.9890.3270": {
+      "offsetX": -29.0,
+      "offsetY": -47.0,
+      "scaleX": 1.0856917,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_1.text.label.9890.3400": {
+      "offsetX": -29.0,
+      "offsetY": -36.0,
+      "scaleX": 1.0975485,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_1.text.number.9890.3540": {
+      "offsetX": -13.0,
+      "offsetY": -18.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.image.button_primary.box.995.369": {
+      "offsetX": -23.0,
+      "offsetY": -10.0,
+      "scaleX": 1.0714285,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.text.button.10186.3840": {
+      "offsetX": -18.57898,
+      "offsetY": -8.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.image.panel_wide.box.430.430": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.text.heading.5832.4660": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.2285254,
+      "scaleY": 2.2253957,
+      "hidden": false
+    },
+    "page_1.text.label.5361.5130": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.text.label.5555.5450": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.heading.6631.640": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.4345185,
+      "scaleY": 1.0743307,
+      "hidden": false
+    },
+    "page_2.text.number.3430.1580": {
+      "offsetX": -7.0,
+      "offsetY": -38.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.description.5000.1580": {
+      "offsetX": -20.0,
+      "offsetY": -38.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.image.panel_wide.box.315.174": {
+      "offsetX": -14.0,
+      "offsetY": -30.0,
+      "scaleX": 1.0496278,
+      "scaleY": 1.0821918,
+      "hidden": false
+    },
+    "page_2.image.icon_skull.box.332.212": {
+      "offsetX": 8.0,
+      "offsetY": -20.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.heading.3910.1990": {
+      "offsetX": 1.0,
+      "offsetY": -31.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_2.text.button.3920.2260": {
+      "offsetX": 0.0,
+      "offsetY": -18.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.number.3920.2470": {
+      "offsetX": 0.0,
+      "offsetY": -23.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.3920.2610": {
+      "offsetX": 0.0,
+      "offsetY": -21.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.image.button_primary.box.590.268": {
+      "offsetX": -6.0,
+      "offsetY": -37.0,
+      "scaleX": 1.1639345,
+      "scaleY": 1.2926829,
+      "hidden": false
+    },
+    "page_2.text.button.6225.2810": {
+      "offsetX": -6.4768677,
+      "offsetY": -41.0,
+      "scaleX": 1.3258445,
+      "scaleY": 1.85773,
+      "hidden": false
+    },
+    "page_2.image.panel_wide.box.750.174": {
+      "offsetX": -25.0,
+      "offsetY": -30.0,
+      "scaleX": 1.0496278,
+      "scaleY": 1.0821918,
+      "hidden": false
+    },
+    "page_2.image.icon_crown.box.767.212": {
+      "offsetX": 0.0,
+      "offsetY": -20.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.heading.8260.1990": {
+      "offsetX": -2.0,
+      "offsetY": -31.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_2.text.button.8270.2260": {
+      "offsetX": -3.0,
+      "offsetY": -18.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.number.8270.2470": {
+      "offsetX": -3.0,
+      "offsetY": -31.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.image.button_primary.box.1025.268": {
+      "offsetX": -17.0,
+      "offsetY": -37.0,
+      "scaleX": 1.1639345,
+      "scaleY": 1.2926829,
+      "hidden": false
+    },
+    "page_2.text.button.10575.2810": {
+      "offsetX": -17.476807,
+      "offsetY": -41.0,
+      "scaleX": 1.3258445,
+      "scaleY": 2.116402,
+      "hidden": false
+    },
+    "page_2.image.panel_wide.box.315.326": {
+      "offsetX": -14.0,
+      "offsetY": -30.0,
+      "scaleX": 1.0496278,
+      "scaleY": 1.0821918,
+      "hidden": false
+    },
+    "page_2.image.icon_shard.box.332.364": {
+      "offsetX": 7.0,
+      "offsetY": -20.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.heading.3910.3510": {
+      "offsetX": 1.0,
+      "offsetY": -31.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_2.text.button.3920.3780": {
+      "offsetX": 0.0,
+      "offsetY": -18.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.number.3920.3990": {
+      "offsetX": 0.0,
+      "offsetY": -15.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.3920.4130": {
+      "offsetX": 0.0,
+      "offsetY": -45.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.image.button_primary.box.590.420": {
+      "offsetX": -6.0,
+      "offsetY": -37.0,
+      "scaleX": 1.1639345,
+      "scaleY": 1.2926829,
+      "hidden": false
+    },
+    "page_2.text.button.6225.4330": {
+      "offsetX": -6.4768677,
+      "offsetY": -41.0,
+      "scaleX": 1.3258445,
+      "scaleY": 2.116402,
+      "hidden": false
+    },
+    "page_2.image.panel_wide.box.750.326": {
+      "offsetX": -25.0,
+      "offsetY": -30.0,
+      "scaleX": 1.0496278,
+      "scaleY": 1.0821918,
+      "hidden": false
+    },
+    "page_2.image.icon_swords.box.767.364": {
+      "offsetX": 1.0,
+      "offsetY": -13.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.heading.8260.3510": {
+      "offsetX": -2.0,
+      "offsetY": -31.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_2.text.button.8270.3780": {
+      "offsetX": -3.0,
+      "offsetY": -18.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.number.8270.3990": {
+      "offsetX": -3.0,
+      "offsetY": -31.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.8270.4130": {
+      "offsetX": -3.0,
+      "offsetY": -29.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.image.button_primary.box.1025.420": {
+      "offsetX": -17.0,
+      "offsetY": -37.0,
+      "scaleX": 1.1639345,
+      "scaleY": 1.2790697,
+      "hidden": false
+    },
+    "page_2.text.button.10575.4330": {
+      "offsetX": -17.476807,
+      "offsetY": -41.0,
+      "scaleX": 1.3258445,
+      "scaleY": 2.116402,
+      "hidden": false
+    },
+    "page_2.image.panel_wide.box.315.478": {
+      "offsetX": -14.0,
+      "offsetY": -30.0,
+      "scaleX": 1.0496278,
+      "scaleY": 1.0821918,
+      "hidden": false
+    },
+    "page_2.image.icon_gear_green.box.332.516": {
+      "offsetX": 2.0,
+      "offsetY": -20.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.heading.3910.5030": {
+      "offsetX": 1.0,
+      "offsetY": -31.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_2.text.button.3920.5300": {
+      "offsetX": 0.0,
+      "offsetY": -18.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.3920.5510": {
+      "offsetX": 0.0,
+      "offsetY": -31.0,
+      "scaleX": 0.9461451,
+      "scaleY": 1.0888888,
+      "hidden": false
+    },
+    "page_2.text.label.3920.5650": {
+      "offsetX": 0.0,
+      "offsetY": -29.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0888888,
+      "hidden": false
+    },
+    "page_2.image.button_primary.box.590.572": {
+      "offsetX": -6.0,
+      "offsetY": -37.0,
+      "scaleX": 1.1639345,
+      "scaleY": 1.2926829,
+      "hidden": false
+    },
+    "page_2.text.button.6225.5850": {
+      "offsetX": -6.4768677,
+      "offsetY": -41.0,
+      "scaleX": 1.3258445,
+      "scaleY": 1.9841272,
+      "hidden": false
+    },
+    "page_2.image.panel_wide.box.750.478": {
+      "offsetX": -25.0,
+      "offsetY": -30.0,
+      "scaleX": 1.0496278,
+      "scaleY": 1.0821918,
+      "hidden": false
+    },
+    "page_2.image.icon_gear_purple.box.767.516": {
+      "offsetX": 0.0,
+      "offsetY": -20.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.heading.8260.5030": {
+      "offsetX": -2.0,
+      "offsetY": -31.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_2.text.button.8270.5300": {
+      "offsetX": -3.0,
+      "offsetY": -18.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.number.8270.5510": {
+      "offsetX": -3.0,
+      "offsetY": -31.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.8270.5650": {
+      "offsetX": -3.0,
+      "offsetY": -29.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.image.button_primary.box.1025.572": {
+      "offsetX": -17.0,
+      "offsetY": -37.0,
+      "scaleX": 1.1639345,
+      "scaleY": 1.2926829,
+      "hidden": false
+    },
+    "page_2.text.button.10575.5850": {
+      "offsetX": -17.476807,
+      "offsetY": -41.0,
+      "scaleX": 1.325844,
+      "scaleY": 2.1216218,
+      "hidden": false
+    },
+    "global.text.heading.6881.640": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_3.text.label.3420.1580": {
+      "offsetX": 274.0,
+      "offsetY": -46.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.panel_wide.box.315.181": {
+      "offsetX": -3.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0243902,
+      "scaleY": 1.2027028,
+      "hidden": false
+    },
+    "page_3.image.icon_swords.box.333.224": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.heading.3980.2040": {
+      "offsetX": 98.0,
+      "offsetY": -44.0,
+      "scaleX": 1.4544327,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_3.text.button.3990.2320": {
+      "offsetX": 1.0,
+      "offsetY": -16.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.number.3990.2480": {
+      "offsetX": 1.0,
+      "offsetY": -16.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.2690": {
+      "offsetX": 1.625,
+      "offsetY": -2.5,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.2810": {
+      "offsetX": 1.0,
+      "offsetY": 0.875,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.2930": {
+      "offsetX": 1.0,
+      "offsetY": 3.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.3050": {
+      "offsetX": 1.0,
+      "offsetY": 7.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.button_secondary.box.590.290": {
+      "offsetX": -54.0,
+      "offsetY": -3.0,
+      "scaleX": 1.2459016,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.button.6262.3030": {
+      "offsetX": -42.242126,
+      "offsetY": -7.0,
+      "scaleX": 1.0,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_3.image.panel_wide.box.750.181": {
+      "offsetX": -14.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0243902,
+      "scaleY": 1.2027028,
+      "hidden": false
+    },
+    "page_3.image.icon_skull.box.768.224": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.heading.8330.2040": {
+      "offsetX": 71.0,
+      "offsetY": -52.0,
+      "scaleX": 1.2747732,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_3.text.number.8340.2320": {
+      "offsetX": -10.0,
+      "offsetY": -16.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.number.8340.2480": {
+      "offsetX": -10.0,
+      "offsetY": -16.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.number.8340.2610": {
+      "offsetX": 166.0,
+      "offsetY": -29.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.2690": {
+      "offsetX": -10.0,
+      "offsetY": -3.75,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.2810": {
+      "offsetX": -10.0,
+      "offsetY": -1.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.2930": {
+      "offsetX": -10.0,
+      "offsetY": 3.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.3050": {
+      "offsetX": -10.0,
+      "offsetY": 7.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.button_primary.box.1025.290": {
+      "offsetX": -65.0,
+      "offsetY": -3.0,
+      "scaleX": 1.2459016,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.button.10414.3030": {
+      "offsetX": -49.43579,
+      "offsetY": -7.0,
+      "scaleX": 1.0,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_3.image.panel_wide.box.315.397": {
+      "offsetX": -3.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0243902,
+      "scaleY": 1.2027028,
+      "hidden": false
+    },
+    "page_3.image.icon_gear_purple.box.333.440": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.heading.3980.4200": {
+      "offsetX": 98.0,
+      "offsetY": -44.0,
+      "scaleX": 1.804066,
+      "scaleY": 1.4561403,
+      "hidden": false
+    },
+    "page_3.text.number.3990.4480": {
+      "offsetX": -7.0,
+      "offsetY": -16.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.4640": {
+      "offsetX": -7.0,
+      "offsetY": -16.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.4770": {
+      "offsetX": -7.0,
+      "offsetY": -13.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.4850": {
+      "offsetX": -7.0,
+      "offsetY": -5.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.4970": {
+      "offsetX": -7.0,
+      "offsetY": -1.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.5090": {
+      "offsetX": -7.0,
+      "offsetY": 3.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.5210": {
+      "offsetX": -7.0,
+      "offsetY": 7.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.button_primary.box.590.506": {
+      "offsetX": -54.0,
+      "offsetY": -3.0,
+      "scaleX": 1.2459016,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.button.6064.5190": {
+      "offsetX": -38.43579,
+      "offsetY": -7.0,
+      "scaleX": 1.0,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_3.image.panel_wide.box.750.397": {
+      "offsetX": -14.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0243902,
+      "scaleY": 1.2027028,
+      "hidden": false
+    },
+    "page_3.image.icon_crown.box.768.440": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.heading.8330.4200": {
+      "offsetX": 55.0,
+      "offsetY": -52.0,
+      "scaleX": 1.1985756,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_3.text.number.8340.4480": {
+      "offsetX": -10.0,
+      "offsetY": -16.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.number.8340.4640": {
+      "offsetX": -10.0,
+      "offsetY": -16.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.4850": {
+      "offsetX": -10.625,
+      "offsetY": -1.25,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.4970": {
+      "offsetX": -10.0,
+      "offsetY": 0.875,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.5090": {
+      "offsetX": -10.0,
+      "offsetY": 3.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.5210": {
+      "offsetX": -10.0,
+      "offsetY": 7.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.button_primary.box.1025.506": {
+      "offsetX": -65.0,
+      "offsetY": -3.0,
+      "scaleX": 1.2459016,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.button.10414.5190": {
+      "offsetX": -49.43579,
+      "offsetY": -7.0,
+      "scaleX": 1.0,
+      "scaleY": 1.6666666,
+      "hidden": false
+    },
+    "page_3.text.description.3123.5840": {
+      "offsetX": -0.33447266,
+      "offsetY": -8.0,
+      "scaleX": 0.96508914,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_home.box.18.150": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1349.1690": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_progression.box.18.208": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1281.2270": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_artifacts.box.18.266": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1205.2850": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_classes.box.18.324": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1390.3430": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_journal.box.18.382": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1367.4010": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_items.box.18.440": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1254.4590": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.menu_settings.box.18.498": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.label.1232.5170": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.number.3920.2610": {
+      "offsetX": 0.0,
+      "offsetY": -21.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.2610": {
+      "offsetX": 160.625,
+      "offsetY": -28.75,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.2610": {
+      "offsetX": 106.25,
+      "offsetY": -28.75,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.4770": {
+      "offsetX": 176.875,
+      "offsetY": -28.75,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.image.icon_essence.974.66": {
+      "offsetX": 66.0,
+      "offsetY": 14.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.number.10010.680": {
+      "offsetX": 63.0,
+      "offsetY": 12.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_0.text.heading.8518.4920": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.3920.2260": {
+      "offsetX": 0.0,
+      "offsetY": -26.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.button.6236.2810": {
+      "offsetX": 0.44000244,
+      "offsetY": -33.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.8270.2260": {
+      "offsetX": -3.0,
+      "offsetY": -26.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.8270.2610": {
+      "offsetX": -3.0,
+      "offsetY": -29.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.button.10586.2810": {
+      "offsetX": -10.560059,
+      "offsetY": -33.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.3920.3780": {
+      "offsetX": 0.0,
+      "offsetY": -26.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.button.6236.4330": {
+      "offsetX": 0.44000244,
+      "offsetY": -33.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.8270.3780": {
+      "offsetX": -3.0,
+      "offsetY": -26.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.button.10586.4330": {
+      "offsetX": -10.560059,
+      "offsetY": -33.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.3920.5300": {
+      "offsetX": 0.0,
+      "offsetY": -26.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.button.6236.5850": {
+      "offsetX": 0.44000244,
+      "offsetY": -33.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.label.8270.5300": {
+      "offsetX": -3.0,
+      "offsetY": -26.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_2.text.button.10586.5850": {
+      "offsetX": -10.560059,
+      "offsetY": -33.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.heading.6239.640": {
+      "offsetX": 16.130005,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_1.text.button.3842.3840": {
+      "offsetX": -0.21710205,
+      "offsetY": -8.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.text.button.5992.3840": {
+      "offsetX": -7.217102,
+      "offsetY": -8.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.text.button.8142.3840": {
+      "offsetX": -14.217102,
+      "offsetY": -8.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_1.text.button.10292.3840": {
+      "offsetX": -21.217163,
+      "offsetY": -8.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3420.1530": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.panel_wide.box.315.171": {
+      "offsetX": -13.0,
+      "offsetY": -3.0,
+      "scaleX": 1.003424,
+      "scaleY": 1.1708032,
+      "hidden": false
+    },
+    "page_3.image.icon_swords.box.333.209": {
+      "offsetX": 11.0,
+      "offsetY": 14.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.heading.3980.1880": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_3.text.button.3990.2120": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.number.3990.2270": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.2530": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.2640": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.2750": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.2860": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.button_secondary.box.590.269": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.button.6283.2800": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.panel_wide.box.750.171": {
+      "offsetX": -24.0,
+      "offsetY": -3.0,
+      "scaleX": 1.0,
+      "scaleY": 1.1660587,
+      "hidden": false
+    },
+    "page_3.image.icon_skull.box.768.209": {
+      "offsetX": 4.0,
+      "offsetY": 15.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.heading.8330.1880": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_3.text.number.8340.2120": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.number.8340.2270": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.number.8340.2390": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.2530": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.2640": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.2750": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.2860": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.button_primary.box.1025.269": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.button.10602.2800": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.panel_wide.box.315.322": {
+      "offsetX": -13.0,
+      "offsetY": -2.0,
+      "scaleX": 1.0051359,
+      "scaleY": 1.1375915,
+      "hidden": false
+    },
+    "page_3.image.icon_gear_purple.box.333.360": {
+      "offsetX": 10.0,
+      "offsetY": 24.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.heading.3980.3390": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_3.text.number.3990.3630": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.3780": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.3900": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.4040": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.4150": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.4260": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.3990.4370": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.button_primary.box.590.420": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.button.6252.4310": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.panel_wide.box.750.322": {
+      "offsetX": -24.0,
+      "offsetY": -2.0,
+      "scaleX": 1.0034236,
+      "scaleY": 1.1328471,
+      "hidden": false
+    },
+    "page_3.image.icon_crown.box.768.360": {
+      "offsetX": 7.0,
+      "offsetY": 16.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.heading.8330.3390": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_3.text.number.8340.3630": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.number.8340.3780": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.3900": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.4040": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.4150": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.4260": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.8340.4370": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.button_primary.box.1025.420": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.button.10602.4310": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.heading.3183.4800": {
+      "offsetX": 9.75,
+      "offsetY": 0.0,
+      "scaleX": 2.4259377,
+      "scaleY": 1.7433099,
+      "hidden": false
+    },
+    "page_3.text.description.3260.5010": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.panel_compact.box.247.516": {
+      "offsetX": 55.0,
+      "offsetY": 12.0,
+      "scaleX": 1.2639568,
+      "scaleY": 0.6959187,
+      "hidden": false
+    },
+    "page_3.text.heading.3326.5330": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.number.2610.5500": {
+      "offsetX": 83.0,
+      "offsetY": 2.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.2610.5620": {
+      "offsetX": 107.0,
+      "offsetY": 6.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.button_primary.box.264.602": {
+      "offsetX": 45.0,
+      "offsetY": -10.0,
+      "scaleX": 1.7703719,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.button.3002.6120": {
+      "offsetX": 83.76132,
+      "offsetY": -4.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.panel_compact.box.487.516": {
+      "offsetX": 111.0,
+      "offsetY": 12.0,
+      "scaleX": 1.1475049,
+      "scaleY": 0.670578,
+      "hidden": false
+    },
+    "page_3.text.heading.5663.5330": {
+      "offsetX": 129.7409,
+      "offsetY": 3.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_3.text.number.5010.5500": {
+      "offsetX": 139.0,
+      "offsetY": 10.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.label.5010.5620": {
+      "offsetX": 147.0,
+      "offsetY": 6.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.number.5010.5740": {
+      "offsetX": 155.0,
+      "offsetY": 2.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.button_primary.box.504.602": {
+      "offsetX": 93.0,
+      "offsetY": -10.0,
+      "scaleX": 1.6483964,
+      "scaleY": 0.9426601,
+      "hidden": false
+    },
+    "page_3.text.button.5402.6120": {
+      "offsetX": 123.76129,
+      "offsetY": -4.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.panel_compact.box.727.516": {
+      "offsetX": 199.0,
+      "offsetY": 12.0,
+      "scaleX": 1.0038815,
+      "scaleY": 0.6452387,
+      "hidden": false
+    },
+    "page_3.text.heading.7889.5330": {
+      "offsetX": 203.11365,
+      "offsetY": 3.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_3.text.label.7410.5500": {
+      "offsetX": 227.0,
+      "offsetY": 10.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.number.7410.5620": {
+      "offsetX": 251.0,
+      "offsetY": 14.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.image.button_primary.box.744.602": {
+      "offsetX": 173.0,
+      "offsetY": -10.0,
+      "scaleX": 1.564939,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_3.text.button.7802.6120": {
+      "offsetX": 195.76129,
+      "offsetY": -4.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.button.5784.1650": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.button.7622.1650": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.330.194": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_journal.box.412.232": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.3835.3060": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.4313.3450": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.610.194": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_crown.box.692.232": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.6886.3060": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.7113.3450": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.890.194": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_skull.box.972.232": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.9538.3060": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.9913.3450": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.330.420": {
+      "offsetX": -2.0,
+      "offsetY": -20.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_gear_gold.box.412.458": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.3599.5320": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.4313.5710": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.610.420": {
+      "offsetX": -2.0,
+      "offsetY": -20.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_essence.box.692.458": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.6659.5320": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.7026.5710": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.image.panel_square.box.890.420": {
+      "offsetX": -2.0,
+      "offsetY": -20.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_swords.box.972.458": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.9612.5320": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.9826.5710": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.text.heading.4649.1970": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.text.description.5080.2320": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.description.4254.2180": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_skull.box.424.259": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.3558.3310": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.text.label.3400.3590": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.3400.3730": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.3400.3870": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.3410.4380": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.text.label.3410.4530": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.3410.4890": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.text.number.3410.5050": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.button_primary.box.338.519": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.button.4030.5290": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_journal.box.706.259": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.6725.3310": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.text.label.6220.3590": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.6230.4380": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.text.label.6230.4530": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.6230.4890": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.text.number.6230.5050": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.button_primary.box.620.519": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.button.6850.5290": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.icon_skull.box.988.259": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.9198.3310": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.text.label.9040.3590": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.label.9040.3730": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.9050.4380": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.text.label.9050.4530": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.heading.9050.4890": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_4.text.number.9050.5050": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.image.button_primary.box.902.519": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.button.9670.5290": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_4.text.description.4979.5800": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "global.text.heading.5866.640": {
+      "offsetX": -2.630005,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_5.text.description.3300.930": {
+      "offsetX": 190.0,
+      "offsetY": -5.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.number.10100.930": {
+      "offsetX": -2.0,
+      "offsetY": 11.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.panel_square.box.323.170": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.heading.3930.1690": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_5.text.button.3930.1920": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.description.3930.2120": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.panel_square.box.758.170": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.icon_skull.box.769.176": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.heading.8280.1690": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_5.text.button.8280.1920": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.description.8280.2120": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.panel_square.box.323.266": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.icon_crown.box.334.272": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.heading.3930.2650": {
+      "offsetX": -1.0,
+      "offsetY": -1.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_5.text.button.3930.2880": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.description.3930.3080": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.panel_square.box.758.266": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.icon_shard.box.769.272": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.heading.8280.2650": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_5.text.button.8280.2880": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.description.8280.3080": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.panel_square.box.323.362": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.icon_swords.box.334.368": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.heading.3930.3610": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_5.text.button.3930.3840": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.description.3930.4040": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.panel_square.box.758.362": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.icon_gear_green.box.769.368": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.heading.8280.3610": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_5.text.button.8280.3840": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.description.8280.4040": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.panel_square.box.323.458": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.image.icon_gear_purple.box.334.464": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.heading.3930.4570": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 3.0,
+      "scaleY": 3.0,
+      "hidden": false
+    },
+    "page_5.text.button.3930.4800": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    },
+    "page_5.text.description.3930.5000": {
+      "offsetX": 0.0,
+      "offsetY": 0.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "hidden": false
+    }
+  },
+  "categoryStyles": {
+    "heading": {
+      "size": 1.0,
+      "color": 0,
+      "bold": -1,
+      "italic": -1,
+      "font": "minecraft:uniform"
+    }
+  },
+  "elementStyles": {
+    "global.text.heading.6400.640": {
+      "size": 1.0,
+      "color": -2640641,
+      "bold": -1,
+      "italic": 1,
+      "font": "abyss:ui_body"
+    },
+    "page_0.text.heading.9089.3260": {
+      "size": 1.0,
+      "color": -990209,
+      "bold": -1,
+      "italic": 1,
+      "font": "minecraft:uniform"
+    },
+    "page_0.text.heading.9649.1740": {
+      "size": 1.0,
+      "color": -6427649,
+      "bold": -1,
+      "italic": 1,
+      "font": "abyss:ui_body"
+    },
+    "page_0.text.heading.6860.1740": {
+      "size": 1.0,
+      "color": -6427649,
+      "bold": -1,
+      "italic": 1,
+      "font": "abyss:ui_body"
+    },
+    "page_0.text.heading.4107.1740": {
+      "size": 1.0,
+      "color": -6427649,
+      "bold": -1,
+      "italic": 1,
+      "font": "abyss:ui_body"
+    },
+    "page_0.text.label.3609.2100": {
+      "size": 1.0,
+      "color": -4330054,
+      "bold": 1,
+      "italic": 0,
+      "font": ""
+    },
+    "page_0.text.label.6405.2100": {
+      "size": 1.0,
+      "color": -11925,
+      "bold": 1,
+      "italic": -1,
+      "font": "abyss:ui_body"
+    },
+    "page_0.text.label.9228.2100": {
+      "size": 1.0,
+      "color": -15148,
+      "bold": 1,
+      "italic": 0,
+      "font": "abyss:ui_body"
+    },
+    "page_0.text.heading.9341.5710": {
+      "size": 1.08,
+      "color": -6427649,
+      "bold": -1,
+      "italic": 1,
+      "font": "minecraft:uniform"
+    },
+    "page_0.text.heading.3951.5230": {
+      "size": 1.08,
+      "color": -6427649,
+      "bold": -1,
+      "italic": 1,
+      "font": "minecraft:uniform"
+    },
+    "page_1.text.number.3440.3540": {
+      "size": 1.1600001,
+      "color": 0,
+      "bold": -1,
+      "italic": -1,
+      "font": ""
+    },
+    "page_1.text.number.5590.3540": {
+      "size": 1.1600001,
+      "color": 0,
+      "bold": -1,
+      "italic": -1,
+      "font": ""
+    },
+    "page_1.text.number.7740.3540": {
+      "size": 1.1600001,
+      "color": 0,
+      "bold": -1,
+      "italic": -1,
+      "font": ""
+    },
+    "page_1.text.number.9890.3540": {
+      "size": 1.1600001,
+      "color": 0,
+      "bold": -1,
+      "italic": -1,
+      "font": ""
+    },
+    "page_1.text.heading.5832.4660": {
+      "size": 1.0,
+      "color": 0,
+      "bold": -1,
+      "italic": -1,
+      "font": "abyss:ui_body"
+    },
+    "global.text.heading.6214.640": {
+      "size": 1.0,
+      "color": 0,
+      "bold": -1,
+      "italic": -1,
+      "font": "abyss:ui_body"
+    },
+    "global.text.heading.6631.640": {
+      "size": 1.0,
+      "color": 0,
+      "bold": -1,
+      "italic": 1,
+      "font": "abyss:ui_body"
+    },
+    "page_3.text.heading.3980.2040": {
+      "size": 1.0,
+      "color": 0,
+      "bold": -1,
+      "italic": -1,
+      "font": "abyss:ui_body"
+    },
+    "page_3.text.heading.3980.4200": {
+      "size": 1.0,
+      "color": 0,
+      "bold": -1,
+      "italic": -1,
+      "font": "abyss:ui_body"
+    },
+    "page_3.text.heading.8330.2040": {
+      "size": 1.0,
+      "color": 0,
+      "bold": -1,
+      "italic": -1,
+      "font": "abyss:ui_body"
+    },
+    "page_3.text.heading.8330.4200": {
+      "size": 1.0,
+      "color": 0,
+      "bold": -1,
+      "italic": -1,
+      "font": "abyss:ui_body"
+    }
+  },
+  "snapToGrid": true
+}

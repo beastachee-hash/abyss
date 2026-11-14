@@ -1,0 +1,209 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "weight": 26,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "thermal:tin_ingot",
+          "weight": 16,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "thermal"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "thermal:lead_ingot",
+          "weight": 16,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "thermal"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mekanism:ingot_osmium",
+          "weight": 14,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "mekanism"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "thermal:nickel_ingot",
+          "weight": 9,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "thermal"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "thermal:silver_ingot",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "thermal"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mekanism:ingot_tin",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "mekanism"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mekanism:ingot_lead",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "mekanism"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "normal": {
+    "bidirectional": [
+      [
+        "soul_collector",
+        "bone_legion"
+      ],
+      [
+        "bone_legion",
+        "grave_flesh"
+      ],
+      [
+        "soul_collector",
+        "curse_weaving"
+      ],
+      [
+        "curse_weaving",
+        "soul_devourer"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Путь Бездны",
+  "description": "Общие таланты, укрепляющие любого героя Бездны.",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "unlocked_by_default": true,
+  "starting_points": 2,
+  "exclusive_root": false,
+  "background": {
+    "texture": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+    "width": 16,
+    "height": 16,
+    "position": "tile"
+  }
+}

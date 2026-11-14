@@ -1,0 +1,32 @@
+
+#Master switches and tuning for the Aether Gate.
+[general]
+	#Enable the mod. When false the gate block does nothing.
+	enabled = true
+	#Also list every entity in the pack whose registry name contains 'boss'.
+	autoDetectBosses = true
+	#Grant Redflux points when a boss is defeated (Redflux is optional).
+	rewardPoints = true
+	#Reward used for bosses discovered automatically (curated bosses carry their own value).
+	#Range: 0 ~ 100000
+	pointsPerBoss = 250
+	#Show a boss bar while fighting in the arena.
+	showBossBar = true
+	#Permanent essence (abyss mod) cost of one boss contract. 0 = free.
+	#Range: 0 ~ 100000
+	contractCost = 100
+	#Item id that must be present (and consumed) to buy a contract, e.g. minecraft:nether_star.
+	contractItem = "minecraft:nether_star"
+	#How many of the contract item are consumed per purchase.
+	#Range: 1 ~ 64
+	contractItemCount = 1
+	#Abyss essence cost to enter a boss arena each fight.
+	#Range: 0 ~ 100000
+	entryCost = 800
+
+#Arena shape.
+[arena]
+	#Half-size of the square arena platform (48 = 97x97 blocks).
+	#Range: 16 ~ 128
+	radius = 48
+

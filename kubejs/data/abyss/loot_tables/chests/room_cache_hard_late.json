@@ -1,0 +1,231 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:unoptanium",
+          "weight": 13,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:plutonium",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:cyber_crystal",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:enderium",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:meteorite_ingot",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:moonstone",
+          "weight": 9,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:mythril",
+          "weight": 9,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:shadow_diamond",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:eclipse_diamond",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crystalcraft_unlimited_java:solar_diamond",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "crystalcraft_unlimited_java"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:ignitium_ingot",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "cataclysm"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "botania:terrasteel_ingot",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AbyssDungeonLoot:1b}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "forge:mod_loaded",
+              "modid": "botania"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

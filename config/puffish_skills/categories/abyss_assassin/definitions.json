@@ -1,0 +1,127 @@
+{
+  "silent_steps": {
+    "title": "Тихие шаги",
+    "description": "В активном забеге восстановление боевого ресурса Ассасина увеличивается на 1 в секунду.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_assassin_flow"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "deadly_precision": {
+    "title": "Смертельная точность",
+    "description": "Тег узла сохраняется, но увеличение шанса критического удара пока не активировано внешним патчем.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_assassin_precision"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "venom_edge": {
+    "title": "Ядовитая кромка",
+    "description": "Тег узла сохраняется, но усиление «Отравленного клинка» и длительности яда пока не активировано внешним патчем.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_assassin_venom"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "executioner": {
+    "title": "Палач",
+    "description": "Тег узла сохраняется, но бонус к урону по ослабленным целям пока не активирован внешним патчем.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 2,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_assassin_execution"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  },
+  "umbral_veil": {
+    "title": "Покров сумрака",
+    "description": "Тег узла сохраняется, но увеличение длительности теневых эффектов пока не активировано внешним патчем.",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 2,
+    "rewards": [
+      {
+        "type": "puffish_skills:tag",
+        "data": {
+          "tag": "abyss_assassin_veil"
+        }
+      }
+    ],
+    "frame": {
+      "type": "advancement",
+      "data": {
+        "frame": "task"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Путь Защитника",
+  "description": "Классовая ветвь Воина: стойкость, давление на врагов и контроль боевого ресурса.",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "minecraft:shield"
+    }
+  },
+  "unlocked_by_default": true,
+  "starting_points": 1,
+  "exclusive_root": false,
+  "background": {
+    "texture": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+    "width": 16,
+    "height": 16,
+    "position": "tile"
+  }
+}

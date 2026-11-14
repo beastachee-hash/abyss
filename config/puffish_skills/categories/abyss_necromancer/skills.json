@@ -1,0 +1,28 @@
+{
+  "soul_collector": {
+    "x": 0,
+    "y": 0,
+    "definition": "soul_collector",
+    "root": true
+  },
+  "bone_legion": {
+    "x": 64,
+    "y": -32,
+    "definition": "bone_legion"
+  },
+  "grave_flesh": {
+    "x": 128,
+    "y": -32,
+    "definition": "grave_flesh"
+  },
+  "curse_weaving": {
+    "x": 64,
+    "y": 32,
+    "definition": "curse_weaving"
+  },
+  "soul_devourer": {
+    "x": 128,
+    "y": 32,
+    "definition": "soul_devourer"
+  }
+}

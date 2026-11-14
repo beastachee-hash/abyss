@@ -1,0 +1,115 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = drippy_loading_overlay
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1762900000000
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+}
+
+customization {
+  action = setscale
+  scale = 1
+}
+
+customization {
+  action = autoscale
+  basewidth = 1920
+  baseheight = 1080
+}
+
+element {
+  element_type = image
+  instance_identifier = abyss_loading_background
+  source = [source:local]/config/fancymenu/assets/portal_loading.png
+  repeat_texture = false
+  nine_slice_texture = false
+  image_tint = #FFFFFF
+  appearance_delay = no_delay
+  fade_in_v2 = no_fading
+  fade_out = no_fading
+  base_opacity = 1.0
+  anchor_point = top-left
+  x = 0
+  y = 0
+  width = %guiwidth%
+  height = %guiheight%
+  stretch_x = true
+  stretch_y = true
+  stay_on_screen = false
+  enable_parallax = false
+  load_once_per_session = false
+}
+
+element {
+  element_type = shape
+  instance_identifier = abyss_loading_veil
+  color = #05020B59
+  appearance_delay = no_delay
+  fade_in_v2 = no_fading
+  fade_out = no_fading
+  base_opacity = 1.0
+  anchor_point = top-left
+  x = 0
+  y = 0
+  width = %guiwidth%
+  height = %guiheight%
+  stretch_x = true
+  stretch_y = true
+  stay_on_screen = false
+  enable_parallax = false
+  load_once_per_session = false
+}
+
+element {
+  element_type = progress_bar
+  instance_identifier = abyss_loading_progress
+  bar_color = #B44CFFFF
+  background_color = #1A0F22FF
+  direction = right
+  progress_for_element_anchor = false
+  progress_source = {"placeholder":"game_loading_progress"}
+  value_mode = percentage
+  smooth_filling_animation = true
+  appearance_delay = no_delay
+  fade_in_v2 = no_fading
+  fade_out = no_fading
+  base_opacity = 1.0
+  anchor_point = mid-centered
+  x = -320
+  y = -89
+  width = 640
+  height = 18
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  enable_parallax = false
+  load_once_per_session = false
+}
+
+element {
+  element_type = image
+  instance_identifier = abyss_loading_ornament
+  source = abyss:textures/gui/parts/ornament_divider.png
+  repeat_texture = false
+  nine_slice_texture = false
+  image_tint = #FFFFFF
+  appearance_delay = no_delay
+  fade_in_v2 = no_fading
+  fade_out = no_fading
+  base_opacity = 1.0
+  anchor_point = mid-centered
+  x = -240
+  y = -31
+  width = 480
+  height = 120
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  enable_parallax = false
+  load_once_per_session = false
+}

@@ -1,0 +1,22 @@
+
+#Master switches and tuning for the RPG mod.
+[general]
+	#Enable the mod. When false, no points are awarded and upgrades are rejected.
+	enabled = true
+	#Multiplier applied to every Redflux point reward (mobs and bosses).
+	#Range: 0.0 ~ 100.0
+	pointsMultiplier = 1.0
+	#Highest upgrade level an item can reach.
+	#Range: 1 ~ 100
+	maxUpgradeLevel = 15
+	#Send a chat line when a player earns points.
+	showPointMessages = true
+
+#Boss spawning. Bosses can always be summoned with their spawn egg.
+[bosses]
+	#Allow bosses to spawn naturally near their home structure.
+	enableBossSpawns = true
+	#Chance per spawn attempt (checked once per player every 30 seconds).
+	#Range: 0.0 ~ 1.0
+	bossSpawnChance = 0.05
+

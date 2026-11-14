@@ -1,0 +1,49 @@
+
+[lighting]
+	#Multiplier applied to vanilla ambient light. 1.0 = vanilla, 1.15 = brighter caves.
+	#Range: 0.5 ~ 2.0
+	ambient_light_boost = 1.0
+	#Extra night-time brightness so caves and nights read more clearly.
+	#0.0 = vanilla; add on top of ambient_light_boost.
+	#Range: 0.0 ~ 0.5
+	deep_lighting = 0.0
+
+[fog]
+	#Global fog density multiplier. Lower = clearer view distance.
+	#Range: 0.1 ~ 3.0
+	fog_density_multiplier = 1.0
+	#Remove the thick nether fog for a clearer look.
+	disable_nether_fog = false
+	#Remove underwater fog so you can see further while swimming.
+	disable_water_fog = false
+	#Warm the fog colour around dawn and dusk for a cinematic look.
+	atmospheric_fog = true
+
+[particles]
+	#Particle density as a percentage of vanilla. 100 = vanilla, 50 = half, 0 = off.
+	#Range: 0 ~ 200
+	particle_density = 100
+	#Render particles regardless of the 'Particles' video setting.
+	always_render_particles = false
+
+[performance]
+	#How many rebuilt chunk meshes to upload to the GPU per frame.
+	#Higher = faster terrain pop-in, lower = smoother frame times.
+	#Range: 1 ~ 64
+	max_built_chunks_uploaded_per_frame = 8
+
+[sky]
+	#Make the sky a richer, more vibrant colour.
+	beautiful_sky = true
+	#Sky colour saturation. 1.0 = vanilla, higher = more vivid.
+	#Range: 1.0 ~ 2.0
+	sky_vibrance = 1.25
+	#Sky colour brightness. 1.0 = vanilla.
+	#Range: 0.5 ~ 2.0
+	sky_brightness = 1.05
+
+[shaders]
+	#If a shader engine (Oculus/Iris) is installed, let it own sky/fog/lighting.
+	#Disables Aurora's own sky/fog/light tweaks so they don't fight the shaderpack.
+	defer_to_shaders = true
+

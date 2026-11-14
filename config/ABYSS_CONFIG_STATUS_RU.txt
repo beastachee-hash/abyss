@@ -1,0 +1,5 @@
+ABYSS 0.5.118 — состояние конфигурации
+
+В исходниках ABYSS 0.5.118 (100 Java-файлов) не обнаружены ForgeConfigSpec, ModLoadingContext.registerConfig или другие регистрации Forge TOML-конфигураций. Поэтому этот пакет не подменяет config/*.toml и не создаёт выдуманные параметры.
+
+Если в твоём профиле уже есть config/abyss*.toml или config/abyss/, сохрани их без изменений. Установщик не трогает config и serverconfig.
